@@ -7,3 +7,4 @@ pyTelegramBotAPI;
 GPT4Free; 
 requests; 
 bs4; 
+ссылка на нашего чат бота; https://t.me/SFedUassistant_bot
