@@ -1,0 +1,5 @@
+!pip install curl-cffi
+!pip install pyTelegramBotAPI
+!pip install g4f -q &> /dev/null
+!pip install requests
+!pip install bs4
